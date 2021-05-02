@@ -7,3 +7,4 @@ print("*" * 3, "*" * 3, sep=" " * 3, end="\n")
 print(" " * 2, " " * 3, sep="*", end="*\n")
 print(" " * 2, " " * 3, sep="*", end="*\n")
 print(" " * 2, "*" * 3, sep="*", end="*\n")
+
