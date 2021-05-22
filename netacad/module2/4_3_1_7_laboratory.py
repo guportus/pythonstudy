@@ -1,3 +1,7 @@
+# Netacad exercise 4.3.1.7
+# Check if year is leap year
+# return days in month
+
 def is_year_leap(year):
     leap_year = False
 

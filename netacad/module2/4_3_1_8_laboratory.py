@@ -1,3 +1,7 @@
+# Netacad exercise 4.3.1.6
+# Check if year is leap year
+# Added days in year
+
 def is_year_leap(year):
     leap_year = False
 
